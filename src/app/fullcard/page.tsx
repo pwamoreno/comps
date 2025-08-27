@@ -1,11 +1,11 @@
-import FullCard from '@/components/FullCard'
+import FullCard from "@/components/FullCard";
 
 const CardFull = () => {
   return (
     <div>
-        <FullCard />
+      <FullCard />
     </div>
-  )
-}
+  );
+};
 
-export default CardFull
+export default CardFull;
